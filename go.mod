@@ -7,7 +7,7 @@ toolchain go1.24.0
 require (
 	github.com/briandowns/openweathermap v0.21.1
 	github.com/caarlos0/env v3.5.0+incompatible
-	github.com/prometheus/client_golang v1.21.0
+	github.com/prometheus/client_golang v1.21.1
 )
 
 require (
