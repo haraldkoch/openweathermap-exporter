@@ -2,7 +2,7 @@ module github.com/haraldkoch/openweathermap-exporter
 
 go 1.22
 
-toolchain go1.24.4
+toolchain go1.24.5
 
 require (
 	github.com/briandowns/openweathermap v0.21.1
